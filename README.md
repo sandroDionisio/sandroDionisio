@@ -1,5 +1,5 @@
 ## Olá ! Eu sou o Sandro Dionisio!
-- 👋 Oi, hoje eu estou treinando pra ser um Front-end.
+- 👋 Oi, hoje eu estou treinando Front end.
 - 👀 Estou estudando ...
 
 <div align="center">
