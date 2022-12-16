@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Sandro Dionisio!
-- 👋 Oi, hoje eu estou treinando Front end.
-- 👀 Estou estudando ...
+- 👋 Oi, eu estou estudando Front end | HTML | CSS | JAVASCRIPT | REACT.
+
 
 <div align="center">
   <a href="https://github.com/sandroDionisio">
